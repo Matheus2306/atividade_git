@@ -6,12 +6,7 @@
         public string modelo { get; set; }
         public string cor { get; set; }
         public int ano { get; set; }
-        public string placa { get; set; }
-        public string chassi { get; set; }
-        public string renavam { get; set; }
-        public string proprietario { get; set; }
-        public string rg { get; set; }
-        public string endereco { get; set; }
+
         public string cidade { get; set; }
         public string estado { get; set; }
         public string cep { get; set; }
